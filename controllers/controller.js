@@ -28,3 +28,12 @@ export const getDream = (req, res) => {
     console.log("From getDream", error);
   }
 };
+export const getWelcome = (req, res) => {
+  try {
+    res
+      .status(200)
+      .send("Hi! Welcome, you can explore /name, /hobby, /dream routes");
+  } catch (error) {
+    console.log("From getDream", error);
+  }
+};
