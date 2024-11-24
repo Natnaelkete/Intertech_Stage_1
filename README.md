@@ -1,4 +1,4 @@
-# Intertechhub Stage One Project
+# Intertechhub Stage One Internship Project
 
 Its a simple project that diplay Fullname, Hobby and Dream
 
